@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt",
+    "/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Applications/Unity/Hub/Editor/6000.2.0b9/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Applications/Unity/Hub/Editor/6000.2.0b9/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "swappywrapper::@7e25bd1f32ce224db4e9": {
+      "artifactName": "swappywrapper",
+      "abi": "armeabi-v7a",
+      "output": "/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/g2n291a5/obj/armeabi-v7a/libswappywrapper.so",
+      "runtimeFiles": []
+    }
+  }
+}

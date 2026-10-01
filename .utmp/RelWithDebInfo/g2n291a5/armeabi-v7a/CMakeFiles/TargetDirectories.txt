@@ -1,0 +1,5 @@
+/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/phamquangminh/Desktop/GameUnity/Game/chromamix-1798fcdddec714bdeba7d07d7fa204b1b391fd0e/.utmp/RelWithDebInfo/g2n291a5/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+pinnaclehehe_inapp_1,published,managed_by_android,FALSE,vi;30 Coins;Buy 30 Coins,TRUE,24000000000,
+pinnaclehehe_inapp_2,published,managed_by_android,FALSE,vi;60 Coins;Buy 60 Coins,TRUE,48000000000,
+pinnaclehehe_inapp_3,published,managed_by_android,FALSE,vi;90 Coins;Buy 90 Coins,TRUE,72000000000,
+pinnaclehehe_inapp_4,published,managed_by_android,FALSE,vi;180 Coins;Buy 180 Coins,TRUE,120000000000,
+pinnaclehehe_inapp_5,published,managed_by_android,FALSE,vi;300 Coins;Buy 300 Coins,TRUE,192000000000,
+pinnaclehehe_inapp_6,published,managed_by_android,FALSE,vi;390 Coins;Buy 390 Coins,TRUE,240000000000,
+pinnaclehehe_inapp_7,published,managed_by_android,FALSE,vi;780 Coins;Buy 780 Coins,TRUE,480000000000,
+pinnaclehehe_inapp_8,published,managed_by_android,FALSE,vi;2040 Coins;Buy 2040 Coins,TRUE,1230000000000,

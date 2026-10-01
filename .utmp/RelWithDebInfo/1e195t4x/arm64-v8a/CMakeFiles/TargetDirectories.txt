@@ -1,0 +1,5 @@
+/Volumes/Oziny/Game/ChromaMix/chromamix/.utmp/RelWithDebInfo/1e195t4x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/ChromaMix/chromamix/.utmp/RelWithDebInfo/1e195t4x/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/ChromaMix/chromamix/.utmp/RelWithDebInfo/1e195t4x/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Volumes/Oziny/Game/ChromaMix/chromamix/.utmp/RelWithDebInfo/1e195t4x/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/ChromaMix/chromamix/.utmp/RelWithDebInfo/1e195t4x/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

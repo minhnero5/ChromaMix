@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.7f2
+CRC: 2116564973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56f3f6a9aeb4876b5fa7d09df799c7f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 76a2ef57380d8aa088508c38e75a097b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 094494cb9f50cec6a0fef7bd12815922
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e44ff81ff8e6b7441aeb7b07da7d53b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5279d2f79aec0df4a91df8526cfd5c51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2af8ed99189df41ad727ded1abeef5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c490f9f867bdb8c44b953fe0d71f944d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78eb9c1d3e02e9347a70742a2a225564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ff46bc3cf396454f87c562eaee63d80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac95b55a987d7904f8c4fc93780bda79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 200639b0b65f3364aa9326b71d552878, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30d9a1931d6fad44da4b58ce95475ee7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Splash.unity
+Dependencies: []
